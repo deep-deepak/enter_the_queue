@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Landing Page",
+    "slug": "landing-page",
+    "banner": {
+      "title": "Where Real World Art Comes To Life In The Digital World",
+      "logo": "",
+      "video": ""
+    },
+    "sections": [
+      {
+          "title": "New Releases",
+          "nfts": []
+      },
+      {
+          "title": "Digital Nft's",
+          "nfts": []
+      },
+      {
+          "title": "Categories",
+          "categories": []
+      },
+      {
+          "title": "Video Arts",
+          "nfts": []
+      }
+    ],
+    "join_us": {
+      "title": "JOIN OUR COMMUNITY",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "button_text": "CONTACT US"
+    }
+  },
+  {
+    "title": "Header",
+    "slug": "header",
+    "logo": ""
+  },
+  {
+    "title": "Footer",
+    "slug": "footer",
+    "sections": [],
+    "content": ""
+  },
+  {
+    "title": "About Us",
+    "slug": "about-us",
+    "content": ""
+  }
+]

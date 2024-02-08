@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Art",
+    "slug": "art",
+    "description": "Art"
+  },
+  {
+    "name": "Music",
+    "slug": "music",
+    "description": "Music"
+  },
+  {
+    "name": "Album",
+    "slug": "album",
+    "description": "Album"
+  },
+  {
+    "name": "Video",
+    "slug": "video",
+    "description": "Video"
+  },
+  {
+    "name": "Photography",
+    "slug": "photography",
+    "description": "Photography"
+  },
+  {
+    "name": "Sports",
+    "slug": "sports",
+    "description": "Sports"
+  },
+  {
+    "name": "Games",
+    "slug": "games",
+    "description": "Games"
+  },
+  {
+    "name": "Others",
+    "slug": "others",
+    "description": "Others"
+  }
+]

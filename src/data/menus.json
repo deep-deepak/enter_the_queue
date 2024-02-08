@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Queue",
+        "slug": "queue",
+        "href": "/",
+        "url": [
+            "/"
+        ]
+    },
+    {
+        "name": "Marketplace",
+        "slug": "marketplace",
+        "href": "/discover",
+        "url": [
+            "/discover",
+            "/discover/[id]"
+        ]
+    },
+    {
+        "name": "Artists",
+        "slug": "artists",
+        "href": "/creators",
+        "url": [
+            "/creators",
+            "/creators/[creatorId]"
+        ]
+    },
+    {
+        "name": "About",
+        "slug": "about",
+        "href": "/about",
+        "url": [
+            "/about"
+        ]
+    },
+    {
+        "name": "Gallery",
+        "slug": "gallery",
+        "href": "/gallery",
+        "url": [
+            "/gallery"
+        ]
+    } 
+]

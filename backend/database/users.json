@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Super Admin",
+    "email": "admin@gmail.com",
+    "password": "admin",
+    "role": "ADMIN",
+    "ethAddress": "",
+    "username": "superadmin",
+    "description": "I am a Super Admin of the diamondverse platform.",
+    "colors": [],
+    "accounts": [],
+    "socialLinks": {},
+    "isVarified": true,
+    "theme": "light",
+    "banner": null,
+    "image": null,
+    "authData": {},
+    "isApproved": true,
+    "canAdminApprove": false,
+    "isMarketplaceAdmin": false,
+    "rememberToken": "",
+    "createdBy": "",
+    "updatedBy": ""
+  }
+]
